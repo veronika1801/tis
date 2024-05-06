@@ -1,0 +1,21 @@
+{
+  "login_url": "https://dev.profteam.su/login",
+
+  "login": "testerAdmin",
+  "password": "Password1",
+  "none_existent_login": "fsdfwsdfs",
+  "none_existent_password": "fsdfwsdfs",
+
+  "register_url": "https://dev.profteam.su/registration",
+ 
+  "register_login": "Smval",
+  "register_email": "chikibriki1801@gmail.com",
+  "register_password": "Smval1801",
+
+  "none_existent_register_login": "smval",
+  "none_existent_register_email": "smval",
+  "none_existent_register_password": "smval",
+
+  "first_name": "смвал",
+  "surname": "смвал"
+}
