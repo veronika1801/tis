@@ -104,7 +104,7 @@ describe("Cypress test", () => {
 
             cy.log("Проверяем, что кнопка заблокирована")
             cy.get('.desktop-modal__content > .vacancy-need-wrapper > .form > .form__buttons')
-                .find(".button.button__background-color-green.button__size-medium.button__color-white.buttons__button")
+            .children()
                 .should("have.attr", "disabled")
         })
     })
